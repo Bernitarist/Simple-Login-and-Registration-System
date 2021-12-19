@@ -1,3 +1,3 @@
-# Simple-Login-and-Registration-System
+# Simple Login and Registration System
 
 Create an account with us :)
